@@ -1,0 +1,20 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.pdb
+C:\Users\DELL\Desktop\Assignments Algo\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe.config
+C:\Users\DELL\Desktop\Assignments Algo\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe
+C:\Users\DELL\Desktop\Assignments Algo\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.pdb
+C:\Users\DELL\Desktop\Assignments Algo\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Assignments Algo\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Assignments Algo\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.exe
+C:\Users\DELL\Desktop\Assignments Algo\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.pdb
+D:\college\semester6\Algo\Assinments\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe.config
+D:\college\semester6\Algo\Assinments\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe
+D:\college\semester6\Algo\Assinments\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.pdb
+D:\college\semester6\Algo\Assinments\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csproj.AssemblyReference.cache
+D:\college\semester6\Algo\Assinments\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csproj.CoreCompileInputs.cache
+D:\college\semester6\Algo\Assinments\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.exe
+D:\college\semester6\Algo\Assinments\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.pdb
